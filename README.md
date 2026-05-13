@@ -65,10 +65,10 @@ Using the power budget equation and the parameters below, determine the attenuat
 
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
-  - Janani Jeisntha O
+  - Janani Jesintha O
 
-<img width="1599" height="1186" alt="WhatsApp Image 2026-05-13 at 7 55 01 PM" src="https://github.com/user-attachments/assets/fbdf702f-edb2-40c0-a7d7-81bf16ff80b5" />
+<img width="932" height="701" alt="image" src="https://github.com/user-attachments/assets/33e6e5dd-81f1-4557-bdaa-0e85259e57cc" />
 
 <img width="1919" height="1079" alt="Screenshot 2026-05-02 144241" src="https://github.com/user-attachments/assets/e76dad80-15aa-4228-ba41-6a621d5efc5a" />
  
-<img width="1345" height="636" alt="WhatsApp Image 2026-05-13 at 7 55 33 PM" src="https://github.com/user-attachments/assets/0a6c3297-4cde-43ba-a9a1-c6e62d9e3b2a" />
+<img width="1473" height="680" alt="image" src="https://github.com/user-attachments/assets/3fca402e-1b8a-48b9-aebc-d277094b9e92" />
